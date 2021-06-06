@@ -1,4 +1,9 @@
-# promise-format-implementation
+# creating a ice cream shop using promises format
+
+As a starter, this can be use for anything that required an array, an option to show the shop avaiability, and the production process.
+As an example, I decided to create an ice cream shop. A problem I usually face is forgetting what the storage currently contain, and 
+customers usually is fascinated knowing the process in which their foods (in this case their ice cream) is made. 
+
 using promise format to create an ice cream shop. Use array as a database, option to show if shop is open or close, and production route.
 
 This code does the following:
